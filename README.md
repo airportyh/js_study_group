@@ -2,7 +2,7 @@ The Javascript Study Group
 ==========================
 
 * [The doc](https://docs.google.com/document/d/1kXK0bBBKp6zLVtq1soN5FYc1isKcjgfJR2pWo9CVUSk/edit)
-* The [dev tools course](http://www.codeschool.com/courses/discover-devtools)
+* [The dev tools course](http://www.codeschool.com/courses/discover-devtools)
 
 The 3 Tracks
 ------------
