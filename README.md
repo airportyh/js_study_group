@@ -11,7 +11,8 @@ The 3 Tracks
 * Veterans Track
 * Self Guided Track
 
-Misc
+Resources
+---------
 
 * [Recommended Online Resources](recommended_resources.md)
 * Recommended Browser: [Google Chrome](https://www.google.com/intl/en/chrome/browser/)
