@@ -32,3 +32,4 @@ Online Tutorials/Courses/Screencasts
 * <http://www.lynda.com/>
 * <http://tekpub.com/>
 * <http://www.pluralsight.com/training>
+* <http://backbonerails.com>
