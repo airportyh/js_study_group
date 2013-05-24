@@ -17,4 +17,5 @@ Resources
 * [Recommended Online Resources](recommended_resources.md)
 * Recommended Browser: [Google Chrome](https://www.google.com/intl/en/chrome/browser/)
 * [Important or Confusing Things About Javascript](important_or_confusing.md)
+* [Course Materials for Javascript](more_course_material_for_js.md)
 
