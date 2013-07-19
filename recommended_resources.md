@@ -33,3 +33,7 @@ Online Tutorials/Courses/Screencasts
 * <http://tekpub.com/>
 * <http://www.pluralsight.com/training>
 * <http://backbonerails.com>
+
+## More
+
+* [Ray Bango's recommendations](http://net.tutsplus.com/tutorials/javascript-ajax/required-javascript-reading/)
