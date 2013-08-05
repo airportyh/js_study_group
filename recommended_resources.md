@@ -37,3 +37,4 @@ Online Tutorials/Courses/Screencasts
 ## More
 
 * [Ray Bango's recommendations](http://net.tutsplus.com/tutorials/javascript-ajax/required-javascript-reading/)
+* [Javacript Masterclass](http://www.youtube.com/watch?v=v0TFmdO4ZP0&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&index=2)
