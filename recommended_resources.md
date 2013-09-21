@@ -33,6 +33,7 @@ Online Tutorials/Courses/Screencasts
 * <http://tekpub.com/>
 * <http://www.pluralsight.com/training>
 * <http://backbonerails.com>
+* <http://nodeschool.io/>
 
 ## More
 
