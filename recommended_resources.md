@@ -40,3 +40,13 @@ Online Tutorials/Courses/Screencasts
 * [Ray Bango's recommendations](http://net.tutsplus.com/tutorials/javascript-ajax/required-javascript-reading/)
 * [Javacript Masterclass](http://www.youtube.com/watch?v=v0TFmdO4ZP0&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&index=2)
 * [JS For Everyone](https://github.com/pselle/JSforeveryone)
+
+## To Learn Typing
+
+* <http://play.typeracer.com/>
+* <http://www.gnu.org/software/gtypist/>
+
+## Motivational
+
+* <http://www.youtube.com/watch?v=o5LgwwiesQ0>
+* <http://www.youtube.com/watch?v=v0TFmdO4ZP0&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&index=2>
