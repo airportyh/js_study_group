@@ -14,6 +14,7 @@ Articles
 --------
 
 * <http://bonsaiden.github.io/JavaScript-Garden/>
+* <https://medium.com/learning-to-code/565fc9dcb329>
 
 Books
 -----
