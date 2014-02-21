@@ -25,5 +25,6 @@ Text Editors
 ============
 
 * [TextMate](http://macromates.com/download) - version 2 alpha is free to use.
+* [TextWrangler](http://www.barebones.com/products/textwrangler/) - free to use.
 * [Sublime Text](http://www.sublimetext.com/) - $70. 
 
