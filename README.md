@@ -21,3 +21,9 @@ Resources
 * [How to stay up-to date](http://uptodate.frontendrescue.org/)
 * [Another big hugh list](https://github.com/dypsilon/frontend-dev-bookmarks)
 
+Text Editors
+============
+
+* [TextMate](http://macromates.com/download) - version 2 alpha is free to use.
+* [Sublime Text](http://www.sublimetext.com/) - $70. 
+
