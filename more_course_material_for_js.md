@@ -49,3 +49,4 @@ Other
 -----
 
 1. <http://try.github.com/> - not Javascript, but very important for Javascript developers of today.
+2. [Increase Productivity Building Muscle Memory](http://thechangelog.com/increase-productivity-building-muscle-memory/)
