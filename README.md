@@ -25,6 +25,7 @@ Text Editors
 ============
 
 * [TextMate](http://macromates.com/download) - version 2 alpha is free to use.
-* [TextWrangler](http://www.barebones.com/products/textwrangler/) - free to use.
+* [SciTE](http://www.scintilla.org/SciTE.html) - free, cross-platform.
+* [TextWrangler](http://www.barebones.com/products/textwrangler/) - free OSX editor.
+* [Notepad++](http://notepad-plus-plus.org/) - free texteditor for Windows.
 * [Sublime Text](http://www.sublimetext.com/) - $70. 
-
